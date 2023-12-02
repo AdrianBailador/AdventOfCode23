@@ -1,4 +1,4 @@
-# AdventOfCode23
+# 🎄 Advent of Code 👩‍💻
 
 --- Day 1: Trebuchet?! ---
 
