@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day1", "Day1", "{4CED6383-1542-4962-ADBA-52C66AF7739B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trebuchet", "Trebuchet\Trebuchet.csproj", "{8C241236-6F04-45BA-BECE-BBE7B282C632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2", "Day2", "{3C0D4AA3-F969-49A3-894E-941B3C8040BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeConundrum", "CubeConundrum\CubeConundrum.csproj", "{66760D97-CB94-4251-AB27-0E8F44DE4B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C241236-6F04-45BA-BECE-BBE7B282C632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C241236-6F04-45BA-BECE-BBE7B282C632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C241236-6F04-45BA-BECE-BBE7B282C632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C241236-6F04-45BA-BECE-BBE7B282C632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C241236-6F04-45BA-BECE-BBE7B282C632} = {4CED6383-1542-4962-ADBA-52C66AF7739B}
+		{66760D97-CB94-4251-AB27-0E8F44DE4B9A} = {3C0D4AA3-F969-49A3-894E-941B3C8040BC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8CAFFE-A1C4-4A75-9D00-CC21D310D111}
+	EndGlobalSection
+EndGlobal
