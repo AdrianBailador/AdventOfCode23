@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2", "Day2", "{3C0D4AA3-F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeConundrum", "CubeConundrum\CubeConundrum.csproj", "{66760D97-CB94-4251-AB27-0E8F44DE4B9A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day3", "Day3", "{5E160E6B-B584-4665-A312-67F59BA5742F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GearRatios", "GearRatios\GearRatios.csproj", "{267B7711-E678-43C7-9129-1EDE6D4A979F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66760D97-CB94-4251-AB27-0E8F44DE4B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267B7711-E678-43C7-9129-1EDE6D4A979F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267B7711-E678-43C7-9129-1EDE6D4A979F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267B7711-E678-43C7-9129-1EDE6D4A979F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267B7711-E678-43C7-9129-1EDE6D4A979F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{8C241236-6F04-45BA-BECE-BBE7B282C632} = {4CED6383-1542-4962-ADBA-52C66AF7739B}
 		{66760D97-CB94-4251-AB27-0E8F44DE4B9A} = {3C0D4AA3-F969-49A3-894E-941B3C8040BC}
+		{267B7711-E678-43C7-9129-1EDE6D4A979F} = {5E160E6B-B584-4665-A312-67F59BA5742F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0D8CAFFE-A1C4-4A75-9D00-CC21D310D111}
