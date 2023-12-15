@@ -61,6 +61,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day14", "Day14", "{B6BC8F53
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParabolicReflectorDish", "ParabolicReflectorDish\ParabolicReflectorDish.csproj", "{4EF54C4A-ACAB-445F-B3C1-54E201F474DE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day15", "Day15", "{8AF252D1-2662-4F8F-9D78-BACC66A3DDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LensLibrary", "LensLibrary\LensLibrary.csproj", "{BDBE5330-7DC4-4FAF-B4EB-C77C2775B879}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +131,10 @@ Global
 		{4EF54C4A-ACAB-445F-B3C1-54E201F474DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF54C4A-ACAB-445F-B3C1-54E201F474DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF54C4A-ACAB-445F-B3C1-54E201F474DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBE5330-7DC4-4FAF-B4EB-C77C2775B879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBE5330-7DC4-4FAF-B4EB-C77C2775B879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBE5330-7DC4-4FAF-B4EB-C77C2775B879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBE5330-7DC4-4FAF-B4EB-C77C2775B879}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,6 +155,7 @@ Global
 		{98025EE4-A754-4A15-8D3A-44EC4EE3E2A7} = {D45CB744-0279-40F3-B6E3-4C113643EC88}
 		{4FC7EA5F-C2F3-44B6-8503-650FE40D4812} = {1CEFF2F1-7EFA-47EC-B701-67A6B6251D3D}
 		{4EF54C4A-ACAB-445F-B3C1-54E201F474DE} = {B6BC8F53-BBAE-4033-A285-5E5A29F9F3F7}
+		{BDBE5330-7DC4-4FAF-B4EB-C77C2775B879} = {8AF252D1-2662-4F8F-9D78-BACC66A3DDF7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0D8CAFFE-A1C4-4A75-9D00-CC21D310D111}
