@@ -15,7 +15,7 @@ class Program
         // Part 1
         var timer = Stopwatch.StartNew();
         var part1Result = CountTiles(input, 0, -1, Directions.Right);
-        Console.WriteLine($"Part 1: {part1Result}, Elapsed: {timer.ElapsedMilliseconds}ms");
+        Console.WriteLine($"Part 1: {part1Result}, Elapsed time: {timer.ElapsedMilliseconds}ms");
 
         // Part 2
         timer.Restart();
@@ -26,7 +26,7 @@ class Program
         await Task.WhenAll(tasks);
 
         var part2Result = tasks.Max(t => t.Result);
-        Console.WriteLine($"Part 2: {part2Result}, Elapsed: {timer.ElapsedMilliseconds}ms");
+        Console.WriteLine($"Part 2: {part2Result}, Elapsed time: {timer.ElapsedMilliseconds}ms");
     }
 
     static IEnumerable<Task<int>> GetTasksForRowDirections(char[][] input)
